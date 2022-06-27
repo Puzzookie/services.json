@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "Communal Cremation",
+    "Description": "Several pets are placed in the crematory and cremated at the same time with no regard for keeping pets separated. This process allows for the comingling of cremated remains. No cremated remains are returned to the client.",
+    "ServiceItems": [
+      {
+        "Pounds": "Pets up to 49 pounds",
+        "Price": 160.00
+      },
+      {
+        "Pounds": "Pets 50-99 pounds",
+        "Price": 185.00
+      },
+      {
+        "Pounds": "Pets 100-149 pounds",
+        "Price": 210.00
+      },
+      {
+        "Pounds": "Pets 150-200 pounds",
+        "Price": 260.00
+      }
+    ]
+  },
+  {
+    "Name": "Individual Cremation",
+    "Description": "More than one pet is placed in the crematory and cremated at the same time with some form of separation between pets such as trays, refractory bricks, or space. Pet’s location in crematory is documented and pets are removed one at a time and kept separated. Each pet’s individual cremated remains are returned to the client. This comes with your choice of either the Integrity Earthurn or Pine Urn.",
+    "ServiceItems": [
+      {
+        "Pounds": "Pets up to 49 pounds",
+        "Price": 220.00
+      },
+      {
+        "Pounds": "Pets 50-99 pounds",
+        "Price": 270.00
+      },
+      {
+        "Pounds": "Pets 100-149 pounds",
+        "Price": 320.00
+      },
+      {
+        "Pounds": "Pets 150-200 pounds",
+        "Price": 370.00
+      }
+    ]
+  },
+  {
+    "Name": "Private Cremation",
+    "Description": "Only one pet is placed in the crematory and cremated, with the cremated remains returned to the client. This comes with your choice of either the Integrity Earthurn, Pine Urn, or Cedar Urn.",
+    "ServiceItems": [
+      {
+        "Pounds": "Pets up to 49 pounds",
+        "Price": 300.00
+      },
+      {
+        "Pounds": "Pets 50-99 pounds",
+        "Price": 350.00
+      },
+      {
+        "Pounds": "Pets 100-149 pounds",
+        "Price": 400.00
+      },
+      {
+        "Pounds": "Pets 150-200 pounds",
+        "Price": 450.00
+      }
+    ]
+  }
+]
