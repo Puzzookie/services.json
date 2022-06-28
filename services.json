@@ -1,7 +1,7 @@
 [
   {
     "Name": "Communal Cremation",
-    "Description": "Several pets are placed in the crematory and cremated at the same time with no regard for keeping pets separated. This process allows for the comingling of cremated remains. No cremated remains are returned to the client.",
+    "Image": "https://skcrane.files.wordpress.com/2019/10/services-icons-21.png",
     "ServiceItems": [
       {
         "Pounds": "Pets up to 49 pounds",
@@ -23,7 +23,7 @@
   },
   {
     "Name": "Individual Cremation",
-    "Description": "More than one pet is placed in the crematory and cremated at the same time with some form of separation between pets such as trays, refractory bricks, or space. Pet’s location in crematory is documented and pets are removed one at a time and kept separated. Each pet’s individual cremated remains are returned to the client. This comes with your choice of either the Integrity Earthurn or Pine Urn.",
+    "Image": "https://skcrane.files.wordpress.com/2019/10/services-icons-22-e1571777490227.png",
     "ServiceItems": [
       {
         "Pounds": "Pets up to 49 pounds",
@@ -45,7 +45,7 @@
   },
   {
     "Name": "Private Cremation",
-    "Description": "Only one pet is placed in the crematory and cremated, with the cremated remains returned to the client. This comes with your choice of either the Integrity Earthurn, Pine Urn, or Cedar Urn.",
+    "Image": "https://skcrane.files.wordpress.com/2019/10/services-icons-23-e1571777554534.png",
     "ServiceItems": [
       {
         "Pounds": "Pets up to 49 pounds",
