@@ -2,66 +2,66 @@
   {
     "Name": "Communal Cremation",
     "Image": "https://skcrane.files.wordpress.com/2019/10/services-icons-21.png",
-    "ServiceItems": [
+    "Nodes": [
       {
-        "Pounds": "Pets up to 49 pounds",
-        "Price": 160.00
+        "Name": "Pets up to 49 pounds",
+        "Description": "160.00"
       },
       {
-        "Pounds": "Pets 50-99 pounds",
-        "Price": 185.00
+        "Name": "Pets 50-99 pounds",
+        "Description": "185.00"
       },
       {
-        "Pounds": "Pets 100-149 pounds",
-        "Price": 210.00
+        "Name": "Pets 100-149 pounds",
+        "Description": "210.00"
       },
       {
-        "Pounds": "Pets 150-200 pounds",
-        "Price": 260.00
+        "Name": "Pets 150-200 pounds",
+        "Description": "260.00"
       }
     ]
   },
   {
     "Name": "Individual Cremation",
     "Image": "https://skcrane.files.wordpress.com/2019/10/services-icons-22-e1571777490227.png",
-    "ServiceItems": [
+    "Nodes": [
       {
-        "Pounds": "Pets up to 49 pounds",
-        "Price": 220.00
+        "Name": "Pets up to 49 pounds",
+        "Description": "220.00"
       },
       {
-        "Pounds": "Pets 50-99 pounds",
-        "Price": 270.00
+        "Name": "Pets 50-99 pounds",
+        "Description": "270.00"
       },
       {
-        "Pounds": "Pets 100-149 pounds",
-        "Price": 320.00
+        "Name": "Pets 100-149 pounds",
+        "Description": "320.00"
       },
       {
-        "Pounds": "Pets 150-200 pounds",
-        "Price": 370.00
+        "Name": "Pets 150-200 pounds",
+        "Description": "370.00"
       }
     ]
   },
   {
     "Name": "Private Cremation",
     "Image": "https://skcrane.files.wordpress.com/2019/10/services-icons-23-e1571777554534.png",
-    "ServiceItems": [
+    "Nodes": [
       {
-        "Pounds": "Pets up to 49 pounds",
-        "Price": 300.00
+        "Name": "Pets up to 49 pounds",
+        "Description": "300.00"
       },
       {
-        "Pounds": "Pets 50-99 pounds",
-        "Price": 350.00
+        "Name": "Pets 50-99 pounds",
+        "Description": "350.00"
       },
       {
-        "Pounds": "Pets 100-149 pounds",
-        "Price": 400.00
+        "Name": "Pets 100-149 pounds",
+        "Description": "400.00"
       },
       {
-        "Pounds": "Pets 150-200 pounds",
-        "Price": 450.00
+        "Name": "Pets 150-200 pounds",
+        "Description": "450.00"
       }
     ]
   }
